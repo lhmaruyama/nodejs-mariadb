@@ -1,3 +1,4 @@
+- npm init -y
 - npm i ts-node-dev -D
 - npm i @types/express -D
 - npm i mysql
