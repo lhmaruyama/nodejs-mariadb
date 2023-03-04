@@ -1,5 +1,5 @@
 import express from "express"
-import { pool } from "./mysql.js"
+import { pool } from "./database.js"
 import { v4 as uuid4 } from "uuid"
 const app = express()
 app.use(express.json())
